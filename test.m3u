@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1,~ test ~
-
-#EXTINF:-1,-MD- Publika TV
+#EXTINF:0,-MD- Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0,Canal 3 HD
 http://185.96.177.181:7001/2
