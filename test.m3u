@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Первый канал
+http://msk2.peers.tv:80/streaming/1kanal/126/variable.m3u8
 #EXTINF:0,-MD- Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0,Canal 3 HD
