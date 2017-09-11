@@ -7,3 +7,21 @@ http://185.96.177.181:7001/2
 http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 #EXTINF:-1,National Geographic
 http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
+#EXTINF:-1, Матч! Боец
+http://163.172.187.253:80/matchboets/tracks-v1a1/index.m3u8
+#EXTINF:-1, КХЛ ТВ
+http://163.172.187.253:80/khl/tracks-v1a1/index.m3u8
+#EXTINF:-1, Ностальгия
+http://163.172.187.253:80/Nostalgia/tracks-v1a1/index.m3u8
+#EXTINF:-1, Discovery Channel
+http://163.172.187.253:80/Discovery/tracks-v1a1/index.m3u8
+#EXTINF:-1, Матч! Футбол 1
+http://163.172.187.253:80/match-futboll-1/tracks-v1a1/index.m3u8
+#EXTINF:-1, Матч! Игра
+http://163.172.187.253:80/match-igra/tracks-v1a1/index.m3u8
+#EXTINF:-1, Наш футбол
+http://163.172.187.253:80/nashfutboll/tracks-v1a1/index.m3u8
+#EXTINF:-1, Наш спорт
+http://163.172.187.253:80/match-sport/tracks-v1a1/index.m3u8
+#EXTINF:-1, Матч ТВ
+http://163.172.187.253:80/matchtv/tracks-v1a1/index.m3u8
