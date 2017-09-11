@@ -25,3 +25,5 @@ http://163.172.187.253:80/nashfutboll/tracks-v1a1/index.m3u8
 http://163.172.187.253:80/match-sport/tracks-v1a1/index.m3u8
 #EXTINF:-1, Матч ТВ
 http://163.172.187.253:80/matchtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Авто плюс
+http://msk2.peers.tv:80/streaming/auto_plus/126/tvrecw/playlist.m3u8
