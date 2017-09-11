@@ -3,3 +3,7 @@
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0,Canal 3 HD
 http://185.96.177.181:7001/2
+#EXTINF:-1,Матч! Игра
+http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
