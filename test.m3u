@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="1" tvg-logo="Первый.png" tvg-name="Первый"  group-title="RU",Первый HD
+#EXTINF:0, tvg-id="" tvg-logo="Первый.png" tvg-name="Первый"  group-title="RU",Первый HD
 http://93.91.113.8:9999/play/a0ag
 
 #EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
