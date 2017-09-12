@@ -168,7 +168,7 @@ http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 HD"  group-title="Group N/A",Canal 3 HD
 http://185.96.177.181:7001/2
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Игра"  group-title="Group N/A",Матч! Игра
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Матч!_Игра" tvg-name="Матч!_Игра"  group-title="Group N/A",Матч!_Игра
 http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Group N/A",National Geographic
