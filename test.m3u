@@ -3,7 +3,7 @@
 #EXTINF:0, tvg-id="" tvg-logo="Первый.png" tvg-name="Первый"  group-title="RU",Первый HD
 http://93.91.113.8:9999/play/a0ag
 
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
+#EXTINF:0, tvg-id="2" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
 http://185.96.177.181:7001/2
 
 #EXTINF:0, tvg-id="" tvg-logo="" tvg-name="N/A HD"  group-title="Group N/A",N/A HD
