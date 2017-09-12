@@ -1,42 +1,42 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Первый" tvg-name="Первый HD"  group-title="RU",Первый HD
+#EXTINF:0, tvg-id="Первый" tvg-logo="Первый" tvg-name="Первый HD"  group-title="RU",Первый HD
 http://93.91.113.8:9999/play/a0ag
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Canal 3" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
+#EXTINF:0, tvg-id="Canal 3 " tvg-logo="Canal 3" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
 http://185.96.177.181:7001/2
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="N/A HD"  group-title="Group N/A",N/A HD
 http://185.96.177.181:7001/1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Publika HD"  group-title="MD",Publika HD
+#EXTINF:0, tvg-id="Publika " tvg-logo="Publika " tvg-name="Publika HD"  group-title="MD",Publika HD
 http://185.96.177.181:7001/3
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч"  group-title="RU",Матч
+#EXTINF:0, tvg-id="Матч" tvg-logo="Матч" tvg-name="Матч"  group-title="RU",Матч
 http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/7/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="43 HD"  group-title="Group N/A",43 HD
+#EXTINF:0, tvg-id="43" tvg-logo="43" tvg-name="43 HD"  group-title="Group N/A",43 HD
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8 Канал"  group-title="Group N/A",8 Канал
+#EXTINF:0, tvg-id="8 Канал" tvg-logo="8 Канал" tvg-name="8 Канал"  group-title="Group N/A",8 Канал
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия 1"  group-title="RU",Россия 1
+#EXTINF:0, tvg-id="Россия 1" tvg-logo="Россия 1" tvg-name="Россия 1"  group-title="RU",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 
-#EXTINF:0, tvg-id="Россия 1 HD" tvg-logo="Logo N/A" tvg-name="Россия 1 HD"  group-title="RU",Россия 1 HD
+#EXTINF:0, tvg-id="Россия 1" tvg-logo="Россия 1" tvg-name="Россия 1 HD"  group-title="RU",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия 24"  group-title="RU",Россия 24
+#EXTINF:0, tvg-id="Россия 24" tvg-logo="Россия 24" tvg-name="Россия 24"  group-title="RU",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия РТР"  group-title="RU",Россия РТР
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Россия РТР" tvg-name="Россия РТР"  group-title="RU",Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Рен"  group-title="RU",Рен
+#EXTINF:0, tvg-id="Рен" tvg-logo="Рен" tvg-name="Рен"  group-title="RU",Рен
 http://93.179.122.25:8080/udp/239.195.32.18:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATR"  group-title="Group N/A",ATR
+#EXTINF:0, tvg-id="ATR" tvg-logo="ATR" tvg-name="ATR"  group-title="Group N/A",ATR
 http://stream.atr.ua/atr/live/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Group N/A",DW
@@ -48,7 +48,7 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESKA BEST MUSIC TV"  group-title="Group N/A",ESKA BEST MUSIC TV
 http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Group N/A",Euronews
+#EXTINF:0, tvg-id="Euronews" tvg-logo="Euronews" tvg-name="Euronews"  group-title="Group N/A",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="France 24 (ENG)"  group-title="Group N/A",France 24 (ENG)
@@ -168,10 +168,10 @@ http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 HD"  group-title="Group N/A",Canal 3 HD
 http://185.96.177.181:7001/2
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Матч!_Игра" tvg-name="Матч!_Игра"  group-title="Group N/A",Матч!_Игра
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!_Игра"  group-title="SPORT",Матч!_Игра
 http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Group N/A",National Geographic
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National_Geographic"  group-title="Group N/A",National_Geographic
 http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Боец"  group-title="Group N/A",Матч! Боец
@@ -186,10 +186,10 @@ http://163.172.187.253:80/Nostalgia/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Group N/A",Discovery Channel
 http://163.172.187.253:80/Discovery/tracks-v1a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 1"  group-title="SPORT",Матч! Футбол 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 1"  group-title="Group N/A",Матч! Футбол 1
 http://163.172.187.253:80/match-futboll-1/tracks-v1a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Матч! Игра" tvg-name="Матч! Игра"  group-title="Group N/A",Матч! Игра
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Игра"  group-title="Group N/A",Матч! Игра
 http://163.172.187.253:80/match-igra/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Наш футбол"  group-title="Group N/A",Наш футбол
