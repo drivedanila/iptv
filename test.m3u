@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Первый" tvg-name="Первый HD"  group-title="RU",Первый HD
 http://93.91.113.8:9999/play/a0ag
