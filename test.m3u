@@ -186,10 +186,10 @@ http://163.172.187.253:80/Nostalgia/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Group N/A",Discovery Channel
 http://163.172.187.253:80/Discovery/tracks-v1a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 1"  group-title="Group N/A",Матч! Футбол 1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!_Футбол 1"  group-title="Group N/A",Матч!_Футбол 1
 http://163.172.187.253:80/match-futboll-1/tracks-v1a1/index.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Игра"  group-title="Group N/A",Матч! Игра
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Матч!_Игра" tvg-name="Матч!_Игра"  group-title="Group N/A",Матч!_Игра
 http://163.172.187.253:80/match-igra/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Наш футбол"  group-title="Group N/A",Наш футбол
