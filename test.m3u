@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="-MD- Publika TV"  group-title="Group N/A",-MD- Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="Музыкальный",Открытый HD
 http://77.232.128.68/bks.m3u8
 
@@ -164,9 +167,6 @@ http://cdn-10.bonus-tv.ru:80/tnv/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Group N/A",ТНТ
 http://93.179.122.25:8080/udp/239.195.32.11:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="-MD- Publika TV"  group-title="Group N/A",-MD- Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 HD"  group-title="Group N/A",Canal 3 HD
 http://185.96.177.181:7001/2
