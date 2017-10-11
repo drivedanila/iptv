@@ -2,11 +2,18 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="-MD- Publika TV"  group-title="Group N/A",-MD- Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jurnal TV"  group-title="Group N/A",Jurnal TV
+http://212.0.202.80:4046/udp/239.100.10.155:1234
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="Музыкальный",Открытый HD
 http://77.232.128.68/bks.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Первый.png" tvg-name="Первый"  group-title="RU",Первый HD
 http://93.91.113.8:9999/play/a0ag
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National_Geographic"  group-title="Group N/A",National_Geographic
+http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
 
 #EXTINF:0, tvg-id="2" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
 http://185.96.177.181:7001/2
@@ -174,9 +181,6 @@ http://185.96.177.181:7001/2
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!_Игра"  group-title="SPORT",Матч!_Игра
 http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National_Geographic"  group-title="Group N/A",National_Geographic
-http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Боец"  group-title="Group N/A",Матч! Боец
 http://163.172.187.253:80/matchboets/tracks-v1a1/index.m3u8
 
@@ -269,9 +273,6 @@ http://212.0.202.80:4046/udp/239.100.10.110:1234
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3"  group-title="Group N/A",Canal 3
 http://212.0.202.80:4046/udp/239.100.10.109:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jurnal TV"  group-title="Group N/A",Jurnal TV
-http://212.0.202.80:4046/udp/239.100.10.155:1234
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino TV"  group-title="Group N/A",Kino TV
 http://212.0.202.80:4046/udp/239.100.10.245:1234
