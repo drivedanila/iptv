@@ -471,4 +471,73 @@ http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2515.ts
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Sport 4"  group-title="Group N/A",RO: Digi Sport 4
 http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2516.ts
 
+#EXTINF:-1,|RO| Dolce Sport 1 HD
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1286.ts
+#EXTINF:-1,|RO| Film Cafe
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1285.ts
+#EXTINF:-1,|RO| Film Mania
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1284.ts
+#EXTINF:-1,|RO| HBO 2
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1283.ts
+#EXTINF:-1,|RO| HBO 3
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1282.ts
+#EXTINF:-1,|RO| Look Plus
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1281.ts
+#EXTINF:-1,|RO| Megamax
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1280.ts
+#EXTINF:-1,|RO| Minimax
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1279.ts
+#EXTINF:-1,|RO| Nat Geo Wild
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1278.ts
+#EXTINF:-1,|RO| National Geographic
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1277.ts
+#EXTINF:-1,|RO| Paprika
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1276.ts
+#EXTINF:-1,|RO| Paramount Channel
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1275.ts
+#EXTINF:-1,|RO| ProTV
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1274.ts
+#EXTINF:-1,|RO| Romania Tv
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1273.ts
+#EXTINF:-1,|RO| TV1000
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1270.ts
+#EXTINF:-1,|RO| Viasat History
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1269.ts
+#EXTINF:-1,|RO| Viasat Nature
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1268.ts
+#EXTINF:-1,|RO| Antena 1
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1266.ts
+#EXTINF:-1,|RO| Antena 3
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1265.ts
+#EXTINF:-1,|RO| Antena Stars
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1264.ts
+#EXTINF:-1,|RO| Estrada TV
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1263.ts
+#EXTINF:-1,|RO| Etno TV
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1262.ts
+#EXTINF:-1,|RO| HBO
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1261.ts
+#EXTINF:-1,|RO| Kanal D
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1260.ts
+#EXTINF:-1,|RO| National TV
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1259.ts
+#EXTINF:-1,|RO| Pro Cinema
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1258.ts
+#EXTINF:-1,|RO| Realitatea Plus
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1257.ts
+#EXTINF:-1,|RO| Realitatea TV
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1256.ts
+#EXTINF:-1,|RO| Sportro
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1255.ts
+#EXTINF:-1,|RO| TVR
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1253.ts
+#EXTINF:-1,|RO| TVR 1
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1252.ts
+#EXTINF:-1,|RO| TVR 2
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1251.ts
+#EXTINF:-1,|RO| TVR 3
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1250.ts
+#EXTINF:-1,|RO| TVR International
+http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1246.ts
+
 
