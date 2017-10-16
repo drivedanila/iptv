@@ -8,7 +8,7 @@ http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
 #EXTINF:0, tvg-id="2" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
 http://185.96.177.181:7001/2
 
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="N/A HD"  group-title="Group N/A",N/A HD
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
 http://185.96.177.181:7001/1
 
 #EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Publika HD"  group-title="MD",Publika HD
