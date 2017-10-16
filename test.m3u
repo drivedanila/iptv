@@ -537,7 +537,11 @@ http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1252.ts
 http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1251.ts
 #EXTINF:-1,|RO| TVR 3
 http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1250.ts
-#EXTINF:-1,|RO| TVR International
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1246.ts
+#EXTINF:-1,RO: PRO Cinema
+http://iptv.re:80/live/testo/testo/3510.m3u8
+#EXTINF:-1,RO: National TV
+http://iptv.re:80/live/testo/testo/3514.m3u8
+#EXTINF:-1,RO: Kanal D
+http://iptv.re:80/live/testo/testo/3515.m3u8
 
 
