@@ -1,547 +1,400 @@
 #EXTM3U
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="-MD- Publika TV"  group-title="Group N/A",-MD- Publika TV
+
+#EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="MD",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National_Geographic"  group-title="Group N/A",National_Geographic
-http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
+#EXTINF:0, tvg-id="11" tvg-logo="Logo N/A" tvg-name="СТС"  group-title="RU",СТС
+http://5.137.239.77:1234/udp/233.7.70.129:5000
 
-#EXTINF:0, tvg-id="2" tvg-logo="" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
-http://185.96.177.181:7001/2
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
+#EXTINF:0, tvg-id="11" tvg-logo="Logo N/A" tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
 http://185.96.177.181:7001/1
 
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Publika HD"  group-title="MD",Publika HD
-http://185.96.177.181:7001/3
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Матч"  group-title="RU",Матч
-http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/7/playlist.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="43 HD"  group-title="Group N/A",43 HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="8 Канал"  group-title="Group N/A",8 Канал
-http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Россия 1"  group-title="RU",Россия 1
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Россия 1 HD"  group-title="RU",Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Россия 24"  group-title="RU",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Россия РТР"  group-title="RU",Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Рен"  group-title="RU",Рен
-http://93.179.122.25:8080/udp/239.195.32.18:1234
-
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="ATR"  group-title="Group N/A",ATR
-http://stream.atr.ua/atr/live/index.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="DW"  group-title="Group N/A",DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Deluxe Music"  group-title="Group N/A",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESKA BEST MUSIC TV"  group-title="Group N/A",ESKA BEST MUSIC TV
-http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
-
-#EXTINF:0, tvg-id="Euronews" tvg-logo="Euronews" tvg-name="Euronews"  group-title="Group N/A",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="France 24 (ENG)"  group-title="Group N/A",France 24 (ENG)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD Media"  group-title="Group N/A",HD Media
-http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD Media 3D"  group-title="Group N/A",HD Media 3D
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HITV"  group-title="Group N/A",HITV
-http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hope TV"  group-title="Group N/A",Hope TV
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IZ.RU"  group-title="Group N/A",IZ.RU
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MUSIC VOX TV Olds cool"  group-title="Group N/A",MUSIC VOX TV Olds cool
-http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Most Video 1 HD"  group-title="Group N/A",Most Video 1 HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ Hits"  group-title="Group N/A",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ TV"  group-title="Group N/A",NRJ TV
-http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Group N/A",News 24
-http://94.158.80.101:8080/news24/stream.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NewsOne HD"  group-title="Group N/A",NewsOne HD
-http://77.120.104.64/hls/newsone-hd/stream.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Public TV"  group-title="Group N/A",Public TV
-http://cdn-11.bonus-tv.ru:80/publictv/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="Group N/A",RU TV HD
-http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Любимое.TV"  group-title="Group N/A",Любимое.TV
-http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="М2"  group-title="Group N/A",М2
-http://live.m2.tv/hls/stream.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Макс 24"  group-title="Group N/A",Макс 24
-http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мир"  group-title="Group N/A",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мир +4"  group-title="Group N/A",Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="Group N/A",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мир HD"  group-title="Group N/A",Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Москва 24"  group-title="Group N/A",Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="НТВ"  group-title="Group N/A",НТВ
-http://93.179.122.25:8080/udp/239.195.32.7:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Неизвестная планета"  group-title="Group N/A",Неизвестная планета
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Новое Телевидение HD"  group-title="Group N/A",Новое Телевидение HD
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Новый Мир"  group-title="Group N/A",Новый Мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ОНТ"  group-title="Group N/A",ОНТ
-http://93.125.31.151:1935/live/ont.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="Group N/A",Открытый HD
-http://77.232.128.68/bks.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный HD BY"  group-title="Group N/A",Первый Музыкальный HD BY
-http://rtmp.one.by:1300
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный RU HD BY"  group-title="Group N/A",Первый Музыкальный RU HD BY
-http://rtmp.one.by:2300
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный UHD BY"  group-title="Group N/A",Первый Музыкальный UHD BY
-http://rtmp.one.by:1400
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="РБК"  group-title="Group N/A",РБК
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="РБК"  group-title="Group N/A",РБК
-http://92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="СТРК HD"  group-title="Group N/A",СТРК HD
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТБН"  group-title="Group N/A",ТБН
-http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТНВ Планета"  group-title="Group N/A",ТНВ Планета
-http://cdn-10.bonus-tv.ru:80/tnv/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Group N/A",ТНТ
-http://93.179.122.25:8080/udp/239.195.32.11:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 HD"  group-title="Group N/A",Canal 3 HD
+#EXTINF:0, tvg-id="11" tvg-logo="Logo N/A" tvg-name="Canal 3 HD"  group-title="MD",Canal 3 HD
 http://185.96.177.181:7001/2
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!_Игра"  group-title="SPORT",Матч!_Игра
-http://msk2.peers.tv:80/streaming/sport_2/16/tvrecw/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Боец"  group-title="Group N/A",Матч! Боец
-http://163.172.187.253:80/matchboets/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КХЛ ТВ"  group-title="Group N/A",КХЛ ТВ
-http://163.172.187.253:80/khl/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ностальгия"  group-title="Group N/A",Ностальгия
-http://163.172.187.253:80/Nostalgia/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Group N/A",Discovery Channel
-http://163.172.187.253:80/Discovery/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 1"  group-title="Group N/A",Матч! Футбол 1
-http://163.172.187.253:80/match-futboll-1/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Игра"  group-title="Group N/A",Матч! Игра
-http://163.172.187.253:80/match-igra/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Наш футбол"  group-title="Group N/A",Наш футбол
-http://163.172.187.253:80/nashfutboll/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Наш спорт"  group-title="Group N/A",Наш спорт
-http://163.172.187.253:80/match-sport/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Group N/A",Матч ТВ
-http://163.172.187.253:80/matchtv/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Авто плюс"  group-title="Group N/A",Авто плюс
-http://msk2.peers.tv:80/streaming/auto_plus/126/tvrecw/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОКОМЕДИЯ"  group-title="Group N/A",КИНОКОМЕДИЯ
-http://109.248.236.40:4433/udp/238.1.1.69:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОКОМЕДИЯ"  group-title="Group N/A",КИНОКОМЕДИЯ
-http://109.248.236.40:4433/udp/238.1.1.93:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="МУЖСКОЕ КИНО"  group-title="Group N/A",МУЖСКОЕ КИНО
-http://109.248.236.40:4433/udp/238.1.1.74:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="THT4"  group-title="Group N/A",THT4
+#EXTINF:0, tvg-id="11" tvg-logo="Logo N/A" tvg-name="THT"  group-title="RU",THT
 http://109.248.236.40:4433/udp/238.1.1.12:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОПРЕМЬЕРА"  group-title="Group N/A",КИНОПРЕМЬЕРА
-http://109.248.236.40:4433/udp/238.1.1.19:1234
+#EXTINF:0, tvg-id="111" tvg-logo="Logo N/A" tvg-name="Первый канал"  group-title="RU",Первый канал
+http://5.137.239.77:1234/udp/225.54.205.129:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ДОМ КИНО"  group-title="Group N/A",ДОМ КИНО
-http://109.248.236.40:4433/udp/238.1.1.32:1234
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="RU",Discovery Channel
+http://5.137.239.77:1234/udp/233.7.70.12:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОМИКС"  group-title="Group N/A",КИНОМИКС
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Охота и Рыбалка"  group-title="RU",Охота и Рыбалка
+http://5.137.239.77:1234/udp/233.7.70.44:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Viasat Explore"  group-title="RU",Viasat Explore
+http://5.137.239.77:1234/udp/233.7.70.16:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="RU",Nat Geo Wild
+http://5.137.239.77:1234/udp/233.7.70.43:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="National_Geographic"  group-title="RU",National_Geographic
+http://msk2.peers.tv:80/streaming/natgeo/16/tvrecw/playlist.m3u8
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Group N/A",Viasat Nature
+http://5.137.239.77:1234/udp/225.54.23.80:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="RU",Discovery Science
+http://5.137.239.77:1234/udp/225.54.23.75:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="RU",National Geographic
+http://5.137.239.77:1234/udp/225.54.23.54:5000
+
+#EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Group N/A",Viasat History
+http://5.137.239.77:1234/udp/225.54.23.56:5000
+
+#EXTINF:0, tvg-id="118" tvg-logo="Logo N/A" tvg-name="Россия 1"  group-title="RU",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0, tvg-id="119" tvg-logo="Logo N/A" tvg-name="Рен ТВ"  group-title="RU",Рен ТВ
+http://5.137.239.77:1234/udp/225.54.223.91:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="Канал"  group-title="Group N/A",Канал
+http://5.137.239.77:1234/udp/225.54.205.176:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="ZooПарк"  group-title="Group N/A",ZooПарк
+http://5.137.239.77:1234/udp/233.7.70.11:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="Пятый канал"  group-title="Group N/A",Пятый канал
+http://5.137.239.77:1234/udp/225.54.205.133:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="8 Канал"  group-title="RU",8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="Наше ТВ"  group-title="Group N/A",Наше ТВ
+http://5.137.239.77:1234/udp/225.54.23.104:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="НТВ"  group-title="Group N/A",НТВ
+http://5.137.239.77:1234/udp/225.54.205.132:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="Group N/A",BBC World News
+http://5.137.239.77:1234/udp/225.54.23.10:5000
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="43 HD"  group-title="RU",43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="2" tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" tvg-name="Pro TV"  group-title="MD;NEWS",Pro TV
+http://hls.protv.md/hls/protv.m3u8
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="Рен"  group-title="RU",Рен
+http://93.179.122.25:8080/udp/239.195.32.18:1234
+
+#EXTINF:0, tvg-id="2" tvg-logo="Logo N/A" tvg-name="ТНВ Планета"  group-title="RU",ТНВ Планета
+http://cdn-10.bonus-tv.ru:80/tnv/index.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="Россия 24"  group-title="RU",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="Россия 1 HD"  group-title="RU",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="24 Doc"  group-title="Group N/A",24 Doc
+http://5.137.239.77:1234/udp/233.7.70.51:5000
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="Неизвестная планета"  group-title="RU",Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="2Х2 +5"  group-title="Group N/A",2Х2 +5
+http://5.137.239.77:1234/udp/225.54.223.243:5000
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="Россия РТР"  group-title="RU",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Euronews" tvg-name="Euronews"  group-title="RU;NEWS",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="2Х2 +2"  group-title="Group N/A",2Х2 +2
+http://5.137.239.77:1234/udp/225.54.223.241:5000
+
+#EXTINF:0, tvg-id="3" tvg-logo="Logo N/A" tvg-name="НТВ"  group-title="Group N/A",НТВ
+http://5.137.239.77:1234/udp/225.54.223.31:5000
+
+#EXTINF:0, tvg-id="4" tvg-logo="Logo N/A" tvg-name="Пятница"  group-title="Group N/A",Пятница
+http://5.137.239.77:1234/udp/225.54.205.144:5000
+
+#EXTINF:0, tvg-id="4" tvg-logo="Logo N/A" tvg-name="Россия 24"  group-title="Group N/A",Россия 24
+http://5.137.239.77:1234/udp/225.54.205.135:5000
+
+#EXTINF:0, tvg-id="4" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="RU",News 24
+http://94.158.80.101:8080/news24/stream.m3u8
+
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОМИКС"  group-title="RU",КИНОМИКС
 http://109.248.236.40:4433/udp/238.1.1.42:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОХИТ"  group-title="Group N/A",КИНОХИТ
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОХИТ"  group-title="RU;FILM",КИНОХИТ
 http://109.248.236.40:4433/udp/238.1.1.53:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="НАШЕ НОВОЕ КИНО"  group-title="Group N/A",НАШЕ НОВОЕ КИНО
-http://109.248.236.40:4433/udp/238.1.1.54:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="ДОМ КИНО"  group-title="RU;FILM",ДОМ КИНО
+http://109.248.236.40:4433/udp/238.1.1.32:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОСЕМЬЯ"  group-title="Group N/A",КИНОСЕМЬЯ
-http://109.248.236.40:4433/udp/238.1.1.52:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Комедия"  group-title="Group N/A",Комедия
+http://5.137.239.77:1234/udp/225.54.23.166:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КИНОСВИДАНИЕ"  group-title="Group N/A",КИНОСВИДАНИЕ
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОКОМЕДИЯ"  group-title="RU",КИНОКОМЕДИЯ
+http://109.248.236.40:4433/udp/238.1.1.69:1234
+
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОСВИДАНИЕ"  group-title="RU;Film",КИНОСВИДАНИЕ
 http://109.248.236.40:4433/udp/238.1.1.105:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KBH"  group-title="Group N/A",KBH
-http://109.248.236.40:4433/udp/238.1.1.111:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОПРЕМЬЕРА"  group-title="RU;FILM",КИНОПРЕМЬЕРА
+http://109.248.236.40:4433/udp/238.1.1.19:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1 Muzic"  group-title="Group N/A",1 Muzic
-http://212.0.202.80:4046/udp/239.100.10.231:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОКОМЕДИЯ"  group-title="RU;FILM",КИНОКОМЕДИЯ
+http://109.248.236.40:4433/udp/238.1.1.93:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="10-TV"  group-title="Group N/A",10-TV
-http://212.0.202.80:4046/udp/239.100.10.67:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="КИНОСЕМЬЯ"  group-title="RU;DesAnimate",КИНОСЕМЬЯ
+http://109.248.236.40:4433/udp/238.1.1.52:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia Premium"  group-title="Group N/A",Amedia Premium
-http://92.249.68.106/10/2104
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Русский Детектив"  group-title="RU",Русский Детектив
+http://5.137.239.77:1234/udp/233.7.70.34:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Group N/A",Animal Planet
-http://92.249.68.106/15/801
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="МУЖСКОЕ КИНО"  group-title="RU",МУЖСКОЕ КИНО
+http://109.248.236.40:4433/udp/238.1.1.74:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Axial TV"  group-title="Group N/A",Axial TV
-http://212.0.202.80:4046/udp/239.100.10.205:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Феникс+ Кино"  group-title="RU",Феникс+ Кино
+http://5.137.239.77:1234/udp/233.7.70.40:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boomerang (RO)"  group-title="Group N/A",Boomerang (RO)
-http://212.0.202.80:4046/udp/239.100.10.77:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="History"  group-title="RU",History
+http://5.137.239.77:1234/udp/225.54.23.52:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNL"  group-title="Group N/A",CNL
-http://212.0.202.80:4046/udp/239.100.10.148:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="TV1000"  group-title="Group N/A",TV1000
+http://5.137.239.77:1234/udp/233.7.70.53:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 2"  group-title="Group N/A",Canal 2
-http://212.0.202.80:4046/udp/239.100.10.110:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="HD Media"  group-title="RU",HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_sd/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3"  group-title="Group N/A",Canal 3
-http://212.0.202.80:4046/udp/239.100.10.109:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="НАШЕ НОВОЕ КИНО"  group-title="RU;FILM",НАШЕ НОВОЕ КИНО
+http://109.248.236.40:4433/udp/238.1.1.54:1234
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino TV"  group-title="Group N/A",Kino TV
-http://212.0.202.80:4046/udp/239.100.10.245:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="TVXXI"  group-title="RU",TVXXI
+http://5.137.239.77:1234/udp/233.7.70.38:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kinohit"  group-title="Group N/A",Kinohit
-http://212.0.202.80:4046/udp/239.100.10.220:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Кинокомедия"  group-title="RU",Кинокомедия
+http://5.137.239.77:1234/udp/225.54.23.25:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kinokomedia"  group-title="Group N/A",Kinokomedia
-http://212.0.202.80:4046/udp/239.100.10.128:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Кино ТВ"  group-title="RU",Кино ТВ
+http://5.137.239.77:1234/udp/225.54.23.45:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kinomix"  group-title="Group N/A",Kinomix
-http://212.0.202.80:4046/udp/239.100.10.178:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Наше Новое Кино"  group-title="RU",Наше Новое Кино
+http://5.137.239.77:1234/udp/225.54.23.43:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kinosemia"  group-title="Group N/A",Kinosemia
-http://212.0.202.80:4046/udp/239.100.10.184:1234
+#EXTINF:0, tvg-id="5" tvg-logo="Logo N/A" tvg-name="Мужское Кино"  group-title="RU",Мужское Кино
+http://5.137.239.77:1234/udp/225.54.23.41:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Group N/A",Minimax
-http://212.0.202.80:4046/udp/239.100.10.121:1234
+#EXTINF:0, tvg-id="6" tvg-logo="Logo N/A" tvg-name="France 24 (ENG)"  group-title="EN;NEWS",France 24 (ENG)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova 1"  group-title="Group N/A",Moldova 1
-http://212.0.202.80:4046/udp/239.100.10.101:1234
+#EXTINF:0, tvg-id="6" tvg-logo="https://i.imgur.com/uYEvE4q.png" tvg-name="Capital TV"  group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova 2"  group-title="Group N/A",Moldova 2
-http://212.0.202.80:4046/udp/239.100.10.100:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova Sport"  group-title="Group N/A",Moldova Sport
-http://212.0.202.80:4046/udp/239.100.10.204:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="N24 Plus"  group-title="Group N/A",N24 Plus
-http://212.0.202.80:4046/udp/239.100.10.125:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="N4"  group-title="Group N/A",N4
-http://212.0.202.80:4046/udp/239.100.10.113:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NTV-Moldova"  group-title="Group N/A",NTV-Moldova
-http://212.0.202.80:4046/udp/239.100.10.249:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Group N/A",Nat Geo Wild
-http://92.249.68.106/4/19116
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National TV"  group-title="Group N/A",National TV
-http://212.0.202.80:4046/udp/239.100.10.124:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Prime"  group-title="Group N/A",Prime
-http://212.0.202.80:4046/udp/239.100.10.102:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro-TV Chisinau"  group-title="Group N/A",Pro-TV Chisinau
-http://212.0.202.80:4046/udp/239.100.10.104:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="Group N/A",Publika TV
-http://212.0.202.80:4046/udp/239.100.10.136:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTR Moldova"  group-title="Group N/A",RTR Moldova
-http://212.0.202.80:4046/udp/239.100.10.106:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RU TV Moldova"  group-title="Group N/A",RU TV Moldova
-http://212.0.202.80:4046/udp/239.100.10.116:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Realitatea TV (RO)"  group-title="Group N/A",Realitatea TV (RO)
-http://212.0.202.80:4046/udp/239.100.10.123:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ren-TV"  group-title="Group N/A",Ren-TV
-http://212.0.202.80:4046/udp/239.100.10.163:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Romania TV"  group-title="Group N/A",Romania TV
-http://212.0.202.80:4046/udp/239.100.10.215:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STS Moldova"  group-title="Group N/A",STS Moldova
-http://212.0.202.80:4046/udp/239.100.10.108:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000 Comedy HD"  group-title="Group N/A",TV 1000 Comedy HD
-http://92.249.68.106/5/17102
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000 Megahit HD"  group-title="Group N/A",TV 1000 Megahit HD
-http://92.249.68.106/5/17103
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000 Premium HD"  group-title="Group N/A",TV 1000 Premium HD
-http://92.249.68.106/5/17104
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jurnal TV"  group-title="Group N/A",Jurnal TV
-http://212.0.202.80:4046/udp/239.100.10.155:1234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="Музыкальный",Открытый HD
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="RU;MUZ",Открытый HD
 http://77.232.128.68/bks.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Первый.png" tvg-name="Первый"  group-title="RU",Первый HD
-http://93.91.113.8:9999/play/a0ag
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="ТНТ Music"  group-title="Group N/A",ТНТ Music
+http://5.137.239.77:1234/udp/233.7.70.60:5000
 
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="RU;MUZ",RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV-7"  group-title="Group N/A",TV-7
-http://212.0.202.80:4046/udp/239.100.10.103:1234
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="NRJ Hits"  group-title="RU;MUZ",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVC-21"  group-title="Group N/A",TVC-21
-http://212.0.202.80:4046/udp/239.100.10.112:1234
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box TV"  group-title="Group N/A",Music Box TV
+http://5.137.239.77:1234/udp/233.7.70.62:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVR Moldova"  group-title="Group N/A",TVR Moldova
-http://212.0.202.80:4046/udp/239.100.10.141:1234
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Муз TV"  group-title="Group N/A",Муз TV
+http://5.137.239.77:1234/udp/225.54.223.201:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: TVR 1"  group-title="Group N/A",RO: TVR 1
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1501.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box RU"  group-title="Group N/A",Music Box RU
+http://5.137.239.77:1234/udp/233.7.70.61:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: TVR 2"  group-title="Group N/A",RO: TVR 2
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1502.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="МУЗ ТВ"  group-title="Group N/A",МУЗ ТВ
+http://5.137.239.77:1234/udp/225.54.205.148:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi 24"  group-title="Group N/A",RO: Digi 24
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1524.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="RU TV"  group-title="Group N/A",RU TV
+http://5.137.239.77:1234/udp/233.7.70.63:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Kanal D"  group-title="Group N/A",RO: Kanal D
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1516.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный RU HD BY"  group-title="RU;MUZ",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Antena 1"  group-title="Group N/A",RO: Antena 1
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1499.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный HD BY"  group-title="RU;MUZ",Первый Музыкальный HD BY
+http://rtmp.one.by:1300
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Antena 3"  group-title="Group N/A",RO: Antena 3
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2482.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="ESKA BEST MUSIC TV"  group-title="RU;MUZ",ESKA BEST MUSIC TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Boomerang"  group-title="Group N/A",RO: Boomerang
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2486.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Deluxe Music"  group-title="RU;MUZ",Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Disney Junior"  group-title="Group N/A",RO: Disney Junior
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1520.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный UHD BY"  group-title="RU;MUZ",Первый Музыкальный UHD BY
+http://rtmp.one.by:1400
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Minimax"  group-title="Group N/A",RO: Minimax
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1512.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Group N/A",MTV Hits
+http://5.137.239.77:1234/udp/225.54.23.125:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Megamax"  group-title="Group N/A",RO: Megamax
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1513.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box"  group-title="Group N/A",Music Box
+http://5.137.239.77:1234/udp/225.54.23.116:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Pro TV"  group-title="Group N/A",RO: Pro TV
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1507.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV Dance"  group-title="RU;MUZ",MTV Dance
+http://5.137.239.77:1234/udp/225.54.23.124:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Pro Cinema"  group-title="Group N/A",RO: Pro Cinema
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2487.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="HITV"  group-title="RU;MUZ",HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Cinemax 2"  group-title="Group N/A",RO: Cinemax 2
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2489.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="RU;MUZ",MTV
+http://5.137.239.77:1234/udp/225.54.23.112:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Cinemax Ro"  group-title="Group N/A",RO: Cinemax Ro
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2488.ts
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="М2"  group-title="RU;MUZ",М2
+http://live.m2.tv/hls/stream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Film"  group-title="Group N/A",RO: Digi Film
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1522.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч! Боец"  group-title="Group N/A",Матч! Боец
+http://5.137.239.77:1234/udp/225.54.23.133:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: HBO Romania"  group-title="Group N/A",RO: HBO Romania
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2490.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Драйв"  group-title="Group N/A",Драйв
+http://5.137.239.77:1234/udp/233.7.70.8:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: HBO 2"  group-title="Group N/A",RO: HBO 2
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1518.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="Group N/A",Viasat Sport
+http://5.137.239.77:1234/udp/233.7.70.15:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: HBO 3"  group-title="Group N/A",RO: HBO 3
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1519.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч! Наш Спорт"  group-title="RU;SPORT",Матч! Наш Спорт
+http://5.137.239.77:1234/udp/225.54.23.145:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: TV 1000"  group-title="Group N/A",RO: TV 1000
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1503.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч"  group-title="RU;SPORT",Матч
+http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/7/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: 1 Music Channel"  group-title="Group N/A",RO: 1 Music Channel
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2502.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч! Арена"  group-title="Group N/A",Матч! Арена
+http://5.137.239.77:1234/udp/233.7.70.6:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Life"  group-title="Group N/A",RO: Digi Life
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1523.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч"  group-title="Group N/A",Матч
+http://5.137.239.77:1234/udp/225.54.205.131:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi World"  group-title="Group N/A",RO: Digi World
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1525.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Extreme Sports"  group-title="Group N/A",Extreme Sports
+http://5.137.239.77:1234/udp/225.54.23.139:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Animal World"  group-title="Group N/A",RO: Digi Animal World
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2504.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="EuroSportNews"  group-title="RU;SPORT",EuroSportNews
+http://5.137.239.77:1234/udp/225.54.23.144:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Fishing & Hunting"  group-title="Group N/A",RO: Fishing & Hunting
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2505.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Group N/A",Eurosport 2
+http://5.137.239.77:1234/udp/233.7.70.14:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: History Channel"  group-title="Group N/A",RO: History Channel
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1517.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч! Наш Спорт"  group-title="Group N/A",Матч! Наш Спорт
+http://5.137.239.77:1234/udp/225.54.23.141:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Ngc"  group-title="Group N/A",RO: Ngc
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/1511.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Русский Экстрим"  group-title="Group N/A",Русский Экстрим
+http://5.137.239.77:1234/udp/233.7.70.7:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Ngc Wild"  group-title="Group N/A",RO: Ngc Wild
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2506.ts
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Group N/A",Eurosport 1
+http://5.137.239.77:1234/udp/233.7.70.13:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Viasat History"  group-title="Group N/A",RO: Viasat History
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2507.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Домашний"  group-title="Group N/A",Домашний
+http://5.137.239.77:1234/udp/225.54.205.142:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Viasat Nature"  group-title="Group N/A",RO: Viasat Nature
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2508.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="English Club TV"  group-title="Group N/A",English Club TV
+http://5.137.239.77:1234/udp/233.7.70.48:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Favorit TV"  group-title="Group N/A",RO: Favorit TV
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2509.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Моя Планета"  group-title="Group N/A",Моя Планета
+http://5.137.239.77:1234/udp/225.54.23.58:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Sport.Ro"  group-title="SPORT",RO: Sport.Ro
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2510.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Gulli"  group-title="Group N/A",Gulli
+http://5.137.239.77:1234/udp/225.54.23.100:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Eurosport"  group-title="SPORT",RO: Eurosport
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2511.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
+http://5.137.239.77:1234/udp/225.54.223.71:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Eurosport 2"  group-title="SPORT",RO: Eurosport 2
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2512.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Group N/A",TiJi
+http://5.137.239.77:1234/udp/225.54.23.94:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Sport 1"  group-title="SPORT",RO: Digi Sport 1
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2517.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Group N/A",Nickelodeon
+http://5.137.239.77:1234/udp/233.7.70.52:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Sport 2"  group-title="SPORT",RO: Digi Sport 2
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2514.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Group N/A",Boomerang
+http://5.137.239.77:1234/udp/225.54.23.103:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Sport 3"  group-title="Group N/A",RO: Digi Sport 3
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2515.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Group N/A",Мульт
+http://5.137.239.77:1234/udp/225.54.23.91:5000
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RO: Digi Sport 4"  group-title="Group N/A",RO: Digi Sport 4
-http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2516.ts
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Disney Channel +2"  group-title="Group N/A",Disney Channel +2
+http://5.137.239.77:1234/udp/225.54.223.232:5000
 
-#EXTINF:-1,|RO| Dolce Sport 1 HD
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1286.ts
-#EXTINF:-1,|RO| Film Cafe
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1285.ts
-#EXTINF:-1,|RO| Film Mania
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1284.ts
-#EXTINF:-1,|RO| HBO 2
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1283.ts
-#EXTINF:-1,|RO| HBO 3
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1282.ts
-#EXTINF:-1,|RO| Look Plus
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1281.ts
-#EXTINF:-1,|RO| Megamax
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1280.ts
-#EXTINF:-1,|RO| Minimax
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1279.ts
-#EXTINF:-1,|RO| Nat Geo Wild
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1278.ts
-#EXTINF:-1,|RO| National Geographic
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1277.ts
-#EXTINF:-1,|RO| Paprika
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1276.ts
-#EXTINF:-1,|RO| Paramount Channel
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1275.ts
-#EXTINF:-1,|RO| ProTV
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1274.ts
-#EXTINF:-1,|RO| Romania Tv
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1273.ts
-#EXTINF:-1,|RO| TV1000
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1270.ts
-#EXTINF:-1,|RO| Viasat History
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1269.ts
-#EXTINF:-1,|RO| Viasat Nature
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1268.ts
-#EXTINF:-1,|RO| Antena 1
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1266.ts
-#EXTINF:-1,|RO| Antena 3
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1265.ts
-#EXTINF:-1,|RO| Antena Stars
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1264.ts
-#EXTINF:-1,|RO| Estrada TV
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1263.ts
-#EXTINF:-1,|RO| Etno TV
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1262.ts
-#EXTINF:-1,|RO| HBO
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1261.ts
-#EXTINF:-1,|RO| Kanal D
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1260.m3u8
-#EXTINF:-1,|RO| National TV
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1259.ts
-#EXTINF:-1,|RO| Pro Cinema
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1258.ts
-#EXTINF:-1,|RO| Realitatea Plus
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1257.ts
-#EXTINF:-1,|RO| Realitatea TV
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1256.ts
-#EXTINF:-1,|RO| Sportro
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1255.ts
-#EXTINF:-1,|RO| TVR
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1253.ts
-#EXTINF:-1,|RO| TVR 1
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1252.ts
-#EXTINF:-1,|RO| TVR 2
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1251.ts
-#EXTINF:-1,|RO| TVR 3
-http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1250.ts
-#EXTINF:-1,RO: PRO Cinema
-http://iptv.re:80/live/testo/testo/3510.m3u8
-#EXTINF:-1,RO: National TV
-http://iptv.re:80/live/testo/testo/3514.m3u8
-#EXTINF:-1,RO: Kanal D
-http://iptv.re:80/live/testo/testo/3515.m3u8
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Дисней"  group-title="Group N/A",Дисней
+http://5.137.239.77:1234/udp/225.54.205.174:5000
 
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Детский"  group-title="Group N/A",Детский
+http://5.137.239.77:1234/udp/233.7.70.54:5000
 
+#EXTINF:0, tvg-id="96" tvg-logo="Logo N/A" tvg-name="КВН ТВ"  group-title="Group N/A",КВН ТВ
+http://5.137.239.77:1234/udp/225.54.23.168:5000
+
+#EXTINF:0, tvg-id="96" tvg-logo="Logo N/A" tvg-name="KBH"  group-title="RU",KBH
+http://109.248.236.40:4433/udp/238.1.1.111:1234
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="РБК"  group-title="RU;NEWS",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ТВ3"  group-title="Group N/A",ТВ3
+http://5.137.239.77:1234/udp/225.54.205.143:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ТВ Центр"  group-title="Group N/A",ТВ Центр
+http://5.137.239.77:1234/udp/225.54.205.138:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Ocean TV"  group-title="Group N/A",Ocean TV
+http://5.137.239.77:1234/udp/233.7.70.46:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="RU",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ТВ3"  group-title="Group N/A",ТВ3
+http://5.137.239.77:1234/udp/225.54.223.131:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="РБК"  group-title="RU",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир +4"  group-title="RU",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Россия К (+4)"  group-title="Group N/A",Россия К (+4)
+http://5.137.239.77:1234/udp/225.54.205.134:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="МИР "  group-title="Group N/A",МИР 
+http://5.137.239.77:1234/udp/225.54.205.146:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="EuroNews"  group-title="Group N/A",EuroNews
+http://5.137.239.77:1234/udp/233.7.70.32:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="VH1"  group-title="Group N/A",VH1
+http://5.137.239.77:1234/udp/233.7.70.2:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="Group N/A",Мир 24
+http://5.137.239.77:1234/udp/233.7.70.130:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Russia Today"  group-title="Group N/A",Russia Today
+http://5.137.239.77:1234/udp/233.7.70.31:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Наука 2.0"  group-title="Group N/A",Наука 2.0
+http://5.137.239.77:1234/udp/225.54.23.65:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="MCM Top"  group-title="Group N/A",MCM Top
+http://5.137.239.77:1234/udp/233.7.70.3:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ОТР"  group-title="Group N/A",ОТР
+http://5.137.239.77:1234/udp/225.54.205.137:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Group N/A",Food Network
+http://5.137.239.77:1234/udp/233.7.70.10:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ОТС"  group-title="Group N/A",ОТС
+http://5.137.239.77:1234/udp/225.54.205.169:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир"  group-title="RU",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="НСТ"  group-title="Group N/A",НСТ
+http://5.137.239.77:1234/udp/233.7.70.39:5000
+
+#EXTINF:0, tvg-id="98" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="Sky News"  group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:0, tvg-id="99" tvg-logo="Logo N/A" tvg-name="Юмор TV"  group-title="Group N/A",Юмор TV
+http://5.137.239.77:1234/udp/233.7.70.58:5000
