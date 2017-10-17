@@ -18,6 +18,12 @@ http://109.248.236.40:4433/udp/238.1.1.12:1234
 #EXTINF:0, tvg-id="111" tvg-logo="Logo N/A" tvg-name="Первый канал"  group-title="RU",Первый канал
 http://5.137.239.77:1234/udp/225.54.205.129:5000
 
+#EXTINF:0, tvg-id="115" tvg-logo="New Logo" tvg-name="Moldova 1"  group-title="MD",Moldova 1
+rtmp://212.0.209.209:1935/live/_definst_/mp4:MoldovaUnu1
+
+#EXTINF:0, tvg-id="115" tvg-logo="New Logo" tvg-name="Moldova 2"  group-title="MD",Moldova 2
+rtmp://212.0.209.209:1935/live/_definst_/mp4:MoldovaDoi2
+
 #EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="RU",Discovery Channel
 http://5.137.239.77:1234/udp/233.7.70.12:5000
 
@@ -189,17 +195,14 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0, tvg-id="6" tvg-logo="https://i.imgur.com/uYEvE4q.png" tvg-name="Capital TV"  group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="NRJ Hits"  group-title="RU;MUZ",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Открытый HD"  group-title="RU;MUZ",Открытый HD
 http://77.232.128.68/bks.m3u8
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="ТНТ Music"  group-title="Group N/A",ТНТ Music
 http://5.137.239.77:1234/udp/233.7.70.60:5000
-
-#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="RU;MUZ",RU TV HD
-http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
-
-#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="NRJ Hits"  group-title="RU;MUZ",NRJ Hits
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box TV"  group-title="Group N/A",Music Box TV
 http://5.137.239.77:1234/udp/233.7.70.62:5000
@@ -210,14 +213,17 @@ http://5.137.239.77:1234/udp/225.54.223.201:5000
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box RU"  group-title="Group N/A",Music Box RU
 http://5.137.239.77:1234/udp/233.7.70.61:5000
 
-#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="МУЗ ТВ"  group-title="Group N/A",МУЗ ТВ
-http://5.137.239.77:1234/udp/225.54.205.148:5000
-
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="RU TV"  group-title="Group N/A",RU TV
 http://5.137.239.77:1234/udp/233.7.70.63:5000
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный RU HD BY"  group-title="RU;MUZ",Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
+
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный UHD BY"  group-title="RU;MUZ",Первый Музыкальный UHD BY
+http://rtmp.one.by:1400
+
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="МУЗ ТВ"  group-title="Group N/A",МУЗ ТВ
+http://5.137.239.77:1234/udp/225.54.205.148:5000
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный HD BY"  group-title="RU;MUZ",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
@@ -228,17 +234,17 @@ http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Deluxe Music"  group-title="RU;MUZ",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 
-#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Первый Музыкальный UHD BY"  group-title="RU;MUZ",Первый Музыкальный UHD BY
-http://rtmp.one.by:1400
-
-#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Group N/A",MTV Hits
-http://5.137.239.77:1234/udp/225.54.23.125:5000
-
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="Music Box"  group-title="Group N/A",Music Box
 http://5.137.239.77:1234/udp/225.54.23.116:5000
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV Dance"  group-title="RU;MUZ",MTV Dance
 http://5.137.239.77:1234/udp/225.54.23.124:5000
+
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="RU;MUZ",RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+
+#EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Group N/A",MTV Hits
+http://5.137.239.77:1234/udp/225.54.23.125:5000
 
 #EXTINF:0, tvg-id="7" tvg-logo="Logo N/A" tvg-name="HITV"  group-title="RU;MUZ",HITV
 http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
@@ -294,6 +300,9 @@ http://5.137.239.77:1234/udp/225.54.205.142:5000
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="English Club TV"  group-title="Group N/A",English Club TV
 http://5.137.239.77:1234/udp/233.7.70.48:5000
 
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Disney Channel +2"  group-title="Group N/A",Disney Channel +2
+http://5.137.239.77:1234/udp/225.54.223.232:5000
+
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Моя Планета"  group-title="Group N/A",Моя Планета
 http://5.137.239.77:1234/udp/225.54.23.58:5000
 
@@ -303,8 +312,8 @@ http://5.137.239.77:1234/udp/225.54.23.100:5000
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
 http://5.137.239.77:1234/udp/225.54.223.71:5000
 
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Group N/A",TiJi
-http://5.137.239.77:1234/udp/225.54.23.94:5000
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Group N/A",Мульт
+http://5.137.239.77:1234/udp/225.54.23.91:5000
 
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Group N/A",Nickelodeon
 http://5.137.239.77:1234/udp/233.7.70.52:5000
@@ -312,11 +321,8 @@ http://5.137.239.77:1234/udp/233.7.70.52:5000
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Group N/A",Boomerang
 http://5.137.239.77:1234/udp/225.54.23.103:5000
 
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Group N/A",Мульт
-http://5.137.239.77:1234/udp/225.54.23.91:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Disney Channel +2"  group-title="Group N/A",Disney Channel +2
-http://5.137.239.77:1234/udp/225.54.223.232:5000
+#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Group N/A",TiJi
+http://5.137.239.77:1234/udp/225.54.23.94:5000
 
 #EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Дисней"  group-title="Group N/A",Дисней
 http://5.137.239.77:1234/udp/225.54.205.174:5000
@@ -398,3 +404,25 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:0, tvg-id="99" tvg-logo="Logo N/A" tvg-name="Юмор TV"  group-title="Group N/A",Юмор TV
 http://5.137.239.77:1234/udp/233.7.70.58:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="8_канал"  group-title="Group N/A",8_канал
+http://5.137.239.77:1234/udp/225.54.205.175:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="Publika HD"  group-title="MD",Publika HD
+http://185.96.177.181:7001/3
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="Россия 1"  group-title="Group N/A",Россия 1
+http://5.137.239.77:1234/udp/225.54.205.130:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="Мир"  group-title="Group N/A",Мир
+http://5.137.239.77:1234/udp/225.54.223.161:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="CTC +4"  group-title="Group N/A",CTC +4
+http://5.137.239.77:1234/udp/225.54.223.111:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Group N/A",ТНТ
+http://5.137.239.77:1234/udp/225.54.205.147:5000
+
+#EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="СТС"  group-title="Group N/A",СТС
+http://5.137.239.77:1234/udp/225.54.205.141:5000
+
