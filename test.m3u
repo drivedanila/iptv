@@ -426,3 +426,41 @@ http://5.137.239.77:1234/udp/225.54.205.147:5000
 #EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="СТС"  group-title="Group N/A",СТС
 http://5.137.239.77:1234/udp/225.54.205.141:5000
 
+#EXTINF:0, Canal 2
+http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
+#EXTINF:0, Canal 3
+http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+#EXTINF:0, Jurnal TV
+http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=token
+#EXTINF:0, Moldova 1
+http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
+#EXTINF:0, Moldova 2
+http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
+#EXTINF:0, Național 4
+http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
+#EXTINF:0, НТВ Молдова
+http://cdnworld.magictvbox.eu/NTV_Moldova/index.m3u8?token=token
+#EXTINF:0, Prime
+http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=token
+#EXTINF:0, PRO TV Chișinău
+http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=token
+#EXTINF:0, PRO 2 Moldova
+http://cdnworld.magictvbox.eu/Acasa_Moldova/index.m3u8?token=token
+#EXTINF:0, Publika TV
+http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=token
+#EXTINF:0, РЕН ТВ Молдова
+http://cdnworld.magictvbox.eu/RenTV_Moldova/index.m3u8?token=token
+#EXTINF:0, РТР Молдова
+http://cdnworld.magictvbox.eu/RTR_Moldova/index.m3u8?token=token
+#EXTINF:0, RU TV Moldova
+http://cdnworld.magictvbox.eu/RUTV_Moldova/index.m3u8?token=token
+#EXTINF:0, СТС MEGA
+http://cdnworld.magictvbox.eu/CTC_Mega/index.m3u8?token=token
+#EXTINF:0, ТНТ Exclusiv TV
+http://cdnworld.magictvbox.eu/Exclusiv_TNT/index.m3u8?token=token
+#EXTINF:0, TV8
+http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=token
+#EXTINF:0, TVR Moldova
+http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=token
+
+
