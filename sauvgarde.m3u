@@ -19,3 +19,5 @@ http://5.137.239.77:1234/udp/225.54.223.111:5000
 
 #EXTINF:0, tvg-id="99999" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Group N/A",ТНТ
 http://5.137.239.77:1234/udp/225.54.205.147:5000
+#EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Матч! Наш Спорт"  group-title="Group N/A",Матч! Наш Спорт
+http://5.137.239.77:1234/udp/225.54.23.141:5000
