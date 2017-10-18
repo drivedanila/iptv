@@ -303,39 +303,6 @@ http://5.137.239.77:1234/udp/233.7.70.13:5000
 #EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Group N/A",Eurosport 2
 http://5.137.239.77:1234/udp/233.7.70.14:5000
 
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Дисней"  group-title="Group N/A",Дисней
-http://5.137.239.77:1234/udp/225.54.205.174:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Group N/A",Мульт
-http://5.137.239.77:1234/udp/225.54.23.91:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Домашний"  group-title="Group N/A",Домашний
-http://5.137.239.77:1234/udp/225.54.205.142:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Моя Планета"  group-title="Group N/A",Моя Планета
-http://5.137.239.77:1234/udp/225.54.23.58:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
-http://5.137.239.77:1234/udp/225.54.223.232:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Детский"  group-title="Group N/A",Детский
-http://5.137.239.77:1234/udp/233.7.70.54:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Group N/A",Nickelodeon
-http://5.137.239.77:1234/udp/233.7.70.52:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Group N/A",Boomerang
-http://5.137.239.77:1234/udp/225.54.23.103:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Group N/A",TiJi
-http://5.137.239.77:1234/udp/225.54.23.94:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
-http://5.137.239.77:1234/udp/225.54.223.71:5000
-
-#EXTINF:0, tvg-id="9" tvg-logo="Logo N/A" tvg-name="Gulli"  group-title="Group N/A",Gulli
-http://5.137.239.77:1234/udp/225.54.23.100:5000
-
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
 http://5.137.239.77:1234/udp/233.7.70.48:5000
 
@@ -344,6 +311,39 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/uYEvE4q.png" tvg-name="(ENG) Capital TV"  group-title="EN",(ENG) Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Моя Планета"  group-title="Group N/A",Моя Планета
+http://5.137.239.77:1234/udp/225.54.23.58:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
+http://5.137.239.77:1234/udp/225.54.223.232:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Детский"  group-title="Group N/A",Детский
+http://5.137.239.77:1234/udp/233.7.70.54:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Group N/A",Nickelodeon
+http://5.137.239.77:1234/udp/233.7.70.52:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Group N/A",Boomerang
+http://5.137.239.77:1234/udp/225.54.23.103:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Group N/A",TiJi
+http://5.137.239.77:1234/udp/225.54.23.94:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
+http://5.137.239.77:1234/udp/225.54.223.71:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Gulli"  group-title="Group N/A",Gulli
+http://5.137.239.77:1234/udp/225.54.23.100:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Домашний"  group-title="Group N/A",Домашний
+http://5.137.239.77:1234/udp/225.54.205.142:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Group N/A",Мульт
+http://5.137.239.77:1234/udp/225.54.23.91:5000
+
+#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Дисней"  group-title="Group N/A",Дисней
+http://5.137.239.77:1234/udp/225.54.205.174:5000
 
 #EXTINF:0, tvg-id="96" tvg-logo="Logo N/A" tvg-name="KBH"  group-title="RU",KBH
 http://109.248.236.40:4433/udp/238.1.1.111:1234
