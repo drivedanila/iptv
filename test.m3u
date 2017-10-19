@@ -291,17 +291,17 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир +4"  group-title="RU",Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
-#EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
-http://5.137.243.212:1234/udp/233.7.70.48:5000
-
-#EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="(ENG) Sky News"  group-title="EN",(ENG) Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
 #EXTINF:0, tvg-id="901" tvg-logo="Logo N/A" tvg-name="(ENG) France 24"  group-title="EN;NEWS",(ENG) France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/uYEvE4q.png" tvg-name="(ENG) Capital TV"  group-title="EN",(ENG) Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
+http://5.137.243.212:1234/udp/233.7.70.48:5000
+
+#EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="(ENG) Sky News"  group-title="EN",(ENG) Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
 http://5.137.239.77:1234/udp/225.54.223.71:5000
