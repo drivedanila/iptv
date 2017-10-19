@@ -276,6 +276,21 @@ http://193.110.72.76:62783/udp/239.192.0.52:2121
 #EXTINF:0, tvg-id="8" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="RU;SPORT",Viasat Sport
 http://5.137.239.77:1234/udp/233.7.70.15:5000
 
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="EuroNews"  group-title="RU",EuroNews
+http://5.137.239.77:1234/udp/233.7.70.32:5000
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ОТС"  group-title="RU",ОТС
+http://hls.peers.tv/streaming/ots/16/tvrecw/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="МИР"  group-title="RU",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="RU",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир +4"  group-title="RU",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
 http://5.137.243.212:1234/udp/233.7.70.48:5000
 
@@ -351,21 +366,6 @@ http://159.255.23.126:8000/udp/235.193.68.53:2460
 #EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Russia Today"  group-title="RU",Russia Today
 http://5.137.239.77:1234/udp/233.7.70.31:5000
 
-#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="EuroNews"  group-title="RU",EuroNews
-http://5.137.239.77:1234/udp/233.7.70.32:5000
-
-#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="ОТС"  group-title="RU",ОТС
-http://hls.peers.tv/streaming/ots/16/tvrecw/playlist.m3u8
-
-#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="МИР"  group-title="RU",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="RU",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:0, tvg-id="97" tvg-logo="Logo N/A" tvg-name="Мир +4"  group-title="RU",Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Național 4"  group-title="MD",Național 4
 http://cdnworld.magictvbox.eu/N4/index.m3u8?token=token
 
@@ -384,9 +384,6 @@ http://cdnworld.magictvbox.eu/Acasa_Moldova/index.m3u8?token=token
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RU TV Moldova"  group-title="MD",RU TV Moldova
 http://cdnworld.magictvbox.eu/RUTV_Moldova/index.m3u8?token=token
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova 1"  group-title="MD",Moldova 1
-http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.logoteka.ru/logos/png/RTR.png" tvg-name="РТР Молдова"  group-title="MD",РТР Молдова
 http://cdnworld.magictvbox.eu/RTR_Moldova/index.m3u8?token=token
 
@@ -398,6 +395,9 @@ http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=token
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3"  group-title="MD",Canal 3
 http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=token
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova 1"  group-title="MD",Moldova 1
+http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=token
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moldova 2"  group-title="MD",Moldova 2
 http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=token
