@@ -298,10 +298,10 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
-http://95.70.53.241:4022/udp/239.4.0.64:2020
+http://176.49.136.98:1234/udp/225.54.23.72:5000
 
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
-http://176.51.188.75:1234/udp/233.7.70.48:5000
+http://176.49.109.88:1234/udp/225.54.23.72:5000
 
 #EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="(ENG) Sky News"  group-title="EN",(ENG) Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
