@@ -22,7 +22,7 @@ http://cdnworld.magictvbox.eu/CTC_Mega/index.m3u8?token=token
 http://178.163.0.68:4022/udp/234.0.0.240:2000
 
 #EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/First_Channel_Russia.png" tvg-name="Первый канал"  group-title="RU",Первый канал
-http://159.255.23.126:8000/udp/238.1.1.5:2460
+http://93.91.125.191:1234/udp/239.195.0.1:1234
 
 #EXTINF:0, tvg-id="111" tvg-logo="Logo N/A" tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
 http://185.96.177.181:7001/1
@@ -298,10 +298,10 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
-http://176.49.136.98:1234/udp/225.54.23.72:5000
+http://2.62.51.170:1234/udp/225.54.23.72:5000
 
 #EXTINF:0, tvg-id="90" tvg-logo="Logo N/A" tvg-name="(ENG) English Club TV"  group-title="EN",(ENG) English Club TV
-http://176.49.109.88:1234/udp/225.54.23.72:5000
+http://92.125.128.171:1234/udp/233.7.70.48:5000
 
 #EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="(ENG) Sky News"  group-title="EN",(ENG) Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
