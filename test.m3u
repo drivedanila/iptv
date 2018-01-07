@@ -24,6 +24,9 @@ http://178.163.0.68:4022/udp/234.0.0.240:2000
 #EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/First_Channel_Russia.png" tvg-name="Первый канал"  group-title="RU",Первый канал
 http://93.91.125.191:1234/udp/239.195.0.1:1234
 
+#EXTINF:-1,Prime 1
+http://5.189.183.124:8989/1md/1md/3.ch
+
 #EXTINF:0, tvg-id="111" tvg-logo="Logo N/A" tvg-name="Canal 2 HD"  group-title="MD",Canal 2 HD
 http://185.96.177.181:7001/1
 
