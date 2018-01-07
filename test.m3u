@@ -49,7 +49,7 @@ http://193.110.72.76:62783/udp/239.192.0.50:2121
 http://2.94.215.228:1212/udp/233.33.220.186:5050
 
 #EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="RU",Nat Geo Wild
-http://5.137.239.77:1234/udp/233.7.70.43:5000
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild/index.m3u8?token=
 
 #EXTINF:0, tvg-id="117" tvg-logo="Logo N/A" tvg-name="Охота и Рыбалка"  group-title="RU",Охота и Рыбалка
 http://159.255.23.126:8000/udp/235.193.68.51:2460
@@ -312,14 +312,11 @@ http://cdnworld.magictvbox.eu/BBC_World_News/index.m3u8?token=
 #EXTINF:0, tvg-id="901" tvg-logo="https://i.imgur.com/oC2FzqY.png" tvg-name="(ENG) Sky News"  group-title="EN",(ENG) Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Карусель"  group-title="RU",Карусель
-http://5.137.239.77:1234/udp/225.54.223.71:5000
-
 #EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Домашний"  group-title="RU",Домашний
 http://5.137.239.77:1234/udp/225.54.205.142:5000
 
 #EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="RU",Nickelodeon
-http://87.117.231.9/iptv/YXBZ5MGT43Q57B/541/index.m3u8
+http://cdnworld.magictvbox.eu/Nickelodeon/index.m3u8?token=
 
 #EXTINF:0, tvg-id="92" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="RU",TiJi
 http://5.137.239.77:1234/udp/225.54.23.94:5000
