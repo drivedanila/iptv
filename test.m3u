@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Матч!
+http://109.70.184.20:8080/udp/239.195.32.3:1234 
+
 #EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="MD",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 
