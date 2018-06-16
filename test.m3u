@@ -4,6 +4,8 @@
 http://109.70.184.20:8080/udp/239.195.32.3:1234 
 #EXTINF:-1,Матч!
 http://46.235.68.99:34040/udp/230.3.4.102:5678
+#EXTINF:-1,Матч! HD
+http://46.235.68.99:34040/udp/230.3.4.154:5678
 
 #EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="MD",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
