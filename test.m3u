@@ -8,8 +8,6 @@ http://176.118.19.2:81/udp/239.195.1.1:1234
 #EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/First_Channel_Russia.png" tvg-name="Первый канал"  group-title="RU",Первый канал
 http://93.91.125.191:1234/udp/239.195.0.1:1234
 
-
-
 #EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="MD",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 
@@ -31,8 +29,6 @@ http://cdnworld.magictvbox.eu/CTC_Mega/index.m3u8?token=token
 #EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/REN_TV.png" tvg-name="Рен ТВ"  group-title="RU",Рен ТВ
 http://178.163.0.68:4022/udp/234.0.0.240:2000
 
-#EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/First_Channel_Russia.png" tvg-name="Первый канал"  group-title="RU",Первый канал
-http://93.91.125.191:1234/udp/239.195.0.1:1234
 
 #EXTINF:-1,Prime 1
 http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=
