@@ -5,6 +5,9 @@ http://109.70.184.20:8080/udp/239.195.32.3:1234
 #EXTINF:-1,Первый Канал
 http://176.118.19.2:81/udp/239.195.1.1:1234
 
+#EXTINF:0, tvg-id="111" tvg-logo="http://www.logoteka.ru/logos/png/First_Channel_Russia.png" tvg-name="Первый канал"  group-title="RU",Первый канал
+http://93.91.125.191:1234/udp/239.195.0.1:1234
+
 
 
 #EXTINF:0, tvg-id="1" tvg-logo="Logo N/A" tvg-name="Publika TV"  group-title="MD",Publika TV
