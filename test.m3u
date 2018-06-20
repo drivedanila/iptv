@@ -5,15 +5,12 @@ http://109.70.184.20:8080/udp/239.195.32.3:1234
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
 http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
-
 #EXTINF:-1,Canal 2 (Молдова)
 #EXTGRP:Разные
 http://37.233.27.53:8885
 #EXTINF:-1,Canal 3 (Молдова)
 #EXTGRP:Разные
 http://37.233.27.53:8893
-
-
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
@@ -26,11 +23,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
 http://195.88.16.15/russiahd/index.m3u8
-
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
 http://193.124.178.14:8081/live-x/russiahd/playlist.m3u8
-
 #EXTINF:-1,Prime (Молдова)
 #EXTGRP:Разные
 http://37.233.27.53:8894
@@ -55,6 +50,4 @@ http://193.124.177.175:8081/live-abr/tnt/playlist.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:Разные
 http://94.74.65.48:19123/ott/181:1122
-
-
 
