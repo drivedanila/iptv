@@ -6,6 +6,13 @@ http://109.70.184.20:8080/udp/239.195.32.3:1234
 #EXTGRP:HD
 http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
 
+#EXTINF:-1,Canal 2 (Молдова)
+#EXTGRP:Разные
+http://37.233.27.53:8885
+#EXTINF:-1,Canal 3 (Молдова)
+#EXTGRP:Разные
+http://37.233.27.53:8893
+
 
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
