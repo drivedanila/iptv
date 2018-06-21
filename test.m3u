@@ -8,6 +8,9 @@ http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
 http://46.151.151.245:8000/udp/239.255.1.1:1234
 #EXTINF:-1,Первый канал
 http://109.200.157.246:8000/play/a008/index.m3u8
+
+#EXTINF:0, Спорт 1 RU
+http://178.49.204.227:81/udp/239.1.12.7:1234
 #EXTINF:-1,Canal 2 (Молдова)
 #EXTGRP:Разные
 http://37.233.27.53:8885
