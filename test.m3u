@@ -3,6 +3,8 @@
 http://109.70.184.20:8080/udp/239.195.32.3:1234 
 #EXTINF:-1,Матч!
 http://46.174.221.132:34040/udp/239.0.0.4:1234
+#EXTINF:-1,Матч! Игра HD
+http://46.174.221.132:34040/udp/239.0.0.36:1234
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:HD
 http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
