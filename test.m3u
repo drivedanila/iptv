@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,M1 HD
+http://46.40.5.99:8000/m1_high
+#EXTINF:-1,M2 HD
+http://46.40.5.99:8000/m2_high
 #EXTINF:-1,Матч ТВ
 http://5.100.110.47:29484/udp/224.3.28.3:1234
 #EXTINF:-1,Первый канал
