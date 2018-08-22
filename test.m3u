@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport 1HD FR
-http://sw.fannan.se:8000/live/zizo18040/54544452/6799.ts
-#EXTINF:-1,Bein Sport 2HD FR
-http://sw.fannan.se:8000/live/zizo18040/54544452/6798.ts
 #EXTINF:-1,Bein Sport 3HD FR
 http://sw.fannan.se:8000/live/zizo18040/54544452/6797.ts
 #EXTINF:-1,M1 HD
@@ -27,3 +23,31 @@ http://89.42.75.230:4632/tvr2
 http://89.42.75.230:4601/m1
 #EXTINF:0,m2
 http://89.42.75.230:4609/m2
+#EXTINF:-1,FR: Infosport+
+http://5.189.187.55:8000/live/Fadil/skype/1137.ts
+#EXTINF:-1,FR: Foot+ 24/24
+http://5.189.187.55:8000/live/Fadil/skype/884.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/752.ts
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/836.ts
+#EXTINF:-1,FR: EURONEWS
+http://5.189.187.55:8000/live/Fadil/skype/965.ts
+#EXTINF:-1,FR: EQUIDIA
+http://5.189.187.55:8000/live/Fadil/skype/835.ts
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://5.189.187.55:8000/live/Fadil/skype/2128.ts
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://5.189.187.55:8000/live/Fadil/skype/2127.ts
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://5.189.187.55:8000/live/Fadil/skype/2129.ts
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://5.189.187.55:8000/live/Fadil/skype/2126.ts
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://5.189.187.55:8000/live/Fadil/skype/2125.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/988.ts
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://5.189.187.55:8000/live/Fadil/skype/701.ts
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/702.ts
